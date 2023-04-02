@@ -1,0 +1,2 @@
+class ScrappedData < ApplicationRecord
+end

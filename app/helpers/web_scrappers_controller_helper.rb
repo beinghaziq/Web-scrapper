@@ -1,0 +1,2 @@
+module WebScrappersControllerHelper
+end
